@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-💬ref: https://shields.io/
+💬ref: https://shields.io/   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Glorious-TaehanL&layout=compact&theme=transparent)](https://github.com/Glorious-TaehanL)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Glorious-TaehanL&show_icons=true&theme=transparent)
