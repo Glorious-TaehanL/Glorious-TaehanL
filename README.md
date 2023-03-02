@@ -18,8 +18,10 @@ Here are some ideas to get you started:
 
 💬ref: https://shields.io/   
 
+-----
+
 <a href="https://github.com/Glorious-Taehan">
   <img src="https://github-readme-stats.vercel.app/api?username=Glorious-TaehanL&layout=compact&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glorious-TaehanL&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glorious-TaehanL&layout=compact&theme=tokyonight" />
 </a>
 
