@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 I effort for better than today. ✨
 
-💻 I'm Junior Developer, interested in Web and Development.#
-⏰ I worked as a web developer in the US for 1 year.#
-🌈 I did Magento website develop or maintenance for 4 years.#
-📝 I am interested in new technologies.#
+💻 I'm Junior Developer, interested in Web and Development. #
+⏰ I worked as a web developer in the US for 1 year. #
+🌈 I did Magento website develop or maintenance for 4 years. #
+📝 I am interested in new technologies. #
 
 💬ref: https://shields.io/   
 
