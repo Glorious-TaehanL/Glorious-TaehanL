@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I effort for better than today. ✨
+
+💻 I'm Junior Developer, interested in Web and Development.
+⏰ I worked as a web developer in the US for 1 year.
+🌈 I did Magento website develop or maintenance for 4 years.
+📝 I am interested in new technologies.
 
 💬ref: https://shields.io/   
 
@@ -24,4 +30,4 @@ Here are some ideas to get you started:
   <img height="169px" width="49%" src="https://github-readme-stats.vercel.app/api?username=Glorious-TaehanL&layout=compact&theme=tokyonight" />
   <img height="169px" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glorious-TaehanL&layout=compact&theme=tokyonight" />
 </a>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Glorious-TaehanL)](https://github.com/Glorious-TaehanL/github-profile-trophy)
