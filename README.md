@@ -30,4 +30,4 @@ I effort for better than today. ✨
   <img height="169px" width="49%" src="https://github-readme-stats.vercel.app/api?username=Glorious-TaehanL&layout=compact&theme=tokyonight" />
   <img height="169px" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glorious-TaehanL&layout=compact&theme=tokyonight" />
 </a>
-[![Taehan LEE's Trophy](https://github-profile-trophy.vercel.app/?username=Glorious-TaehanL&row=1&margin-w=15&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+
