@@ -28,6 +28,6 @@ I effort for better than today. ✨
 
 <a href="https://github.com/Glorious-TaehanL">
   <img height="169px" width="49%" src="https://github-readme-stats.vercel.app/api?username=Glorious-TaehanL&theme=tokyonight" />
-  <img height="169px" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glorious-TaehanL&theme=tokyonight" />
+  <img height="169px" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glorious-TaehanL&theme=tokyonight&layout=compact" />
 </a>
 
