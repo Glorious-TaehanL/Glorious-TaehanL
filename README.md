@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 I effort for better than today. ✨
 
 - 💻 I'm Junior Developer, interested in Web and Development. 
-- ⏰ I worked as a web developer in the US for 1 year. 
+- ⏰ I worked as a web developer in the US. 
+- ⚡ I working as a full stack developer in the korea still now.
 - 🌈 I did Magento website develop or maintenance for 4 years. 
 - 📝 I am interested in new technologies. 
 
